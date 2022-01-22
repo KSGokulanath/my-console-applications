@@ -9,8 +9,8 @@ s4=60
 adminlist=[]
 transaction_history_list=[]
 lp=[]
-l1=[{'name':'n','password':'f','balance':70000,'bank':'sbi','tcount':0,'withdrawan amount':0},{'name':'s','password':'1000','balance':60000,'bank':'axis','tcount':0,'withdrawan amount':0}]
-l=[{'adminname':'s','password':'1'},{'adminname':'gokul','password':'1'}]
+l1=[{'name':'Ram','password':'5678','balance':70000,'bank':'sbi','tcount':0,'withdrawan amount':0},{'name':'Raj','password':'1000','balance':60000,'bank':'axis','tcount':0,'withdrawan amount':0}]
+l=[{'adminname':'Gokul','password':'1234'}]
 def checkusername(z):
     global j
     for i in l:
