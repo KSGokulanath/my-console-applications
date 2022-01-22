@@ -1,0 +1,35 @@
+admin_list=[{'name':'g','password':1}]
+books=[{'bookname':'Sports','isbn':123,'quantity':11,'cost':1200},{'bookname':'Who','isbn':121,'quantity':10,'cost':750},{'bookname':'ab','isbn':17,'quantity':20,'cost':200},{'bookname':'vk','isbn':18,'quantity':30,'cost':300}]
+## Library Management application ##
+Two portals in this applocation:
+  1) Admin    2) User
+  
+** Admin Portal **
+Admin name      = Gokul
+Admin password  = 1234
+[ Admin can view all books , review books stock , collect fine amount for the books that didn't returned on due time ]
+[ Admin can add other admins ]
+[ This application uses datetime module to check the user has returned the book on its due date ]
+
+There are four books that has been set as default [ Yo can add books ]
+Book name  = Sports
+ISBN       = 890345
+
+Book name  = Wings of Fire
+ISBN       = 3678
+
+Book name  = Autobiography
+ISBN       = 1717
+
+Book name  = Way to Success
+ISBN       = 9090
+
+---------------------------------------------------------------------------------------------------------------------------
+
+** User Portal **
+[ There is no user has been set as default ]
+[ User can create an account and can view books , borrow books , check their book history ]
+[ If book is lost , they need to pay 50% of book cost ]
+[ User can take only 3 books at a time and book is onlyy given if their minimum caution deposit of Rs.500/- is maintained ]
+
+---------------------------------------------------------------------------------------------------------------------------
