@@ -1,0 +1,19 @@
+## Railway Ticket Booking Application ##
+Two portal in railway aplication:
+  1) Admin   2) User
+  
+** Admin Portal **
+Admin name     = Gokul
+Admin password = 1234
+
+[ Admin can add trains and routes , view all trains , view all users ]
+[ There is no train is set as default , you can add trains in add train column ]
+
+--------------------------------------------------------------------------------------
+
+** User Portal **
+[ There is no user set as default , create a user in user account section ]
+[ User can view trains , Search trains , Book tickets , History , Cancel trains ]
+[ If there is no seats available , booking will be in waiting list , once if the seat is available the ticket is automatically booked ]
+
+-------------------------------------------------------------------------------------------------------------------------------------------
