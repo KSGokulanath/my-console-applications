@@ -1,5 +1,3 @@
-admin_list=[{'name':'g','password':1}]
-books=[{'bookname':'Sports','isbn':123,'quantity':11,'cost':1200},{'bookname':'Who','isbn':121,'quantity':10,'cost':750},{'bookname':'ab','isbn':17,'quantity':20,'cost':200},{'bookname':'vk','isbn':18,'quantity':30,'cost':300}]
 ## Library Management application ##
 Two portals in this applocation:
   1) Admin    2) User
