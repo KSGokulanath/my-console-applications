@@ -3,4 +3,17 @@ Two main portals in application:
   1) Admin    2) User
 
 ** Admin Portal **
- Admin name = 
+ Admin name      = Gokul
+ Admin password  = 1234
+ 
+  [Admin can update the amount in the ATM and can check the stock in ATM]
+  
+** User Portal **
+ User name       = Ram
+ User password   = 5678
+ ------------------------
+ User name       = Raj
+ User password   = 1000
+ 
+  [ Two users has been given as default, we can create user by craeting an account]
+  [ User can withdraw money , deposit money , change password , balance enquiry and view transaction history]
