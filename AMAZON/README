@@ -1,0 +1,27 @@
+## Amazon application ##
+Three portals in amazon application:
+   1) Admin  2) Merchant  3) User
+   
+** Admin Portal **
+Admin name     = Gokul
+Admin password = 1234
+
+[ Admin can approve merchant , add merchant , view all products , remove merchant ]
+
+----------------------------------------------------------------------------------------------
+
+** Merchant Portal **
+Merchant name  = Ram
+Password       = 5678
+Merchant ID    = 100
+
+[ Merchant can add product , remove product , View their products , sales report , stock update ]
+[ You have craete a new merchant account which needs approve from admin ]
+
+----------------------------------------------------------------------------------------------
+
+** User Portal **
+[ There is no default user has been set. We can create a user by clicking create an account in user portal ]
+[ User can view , search products , buy them , add product to cart , view their history of products ]
+
+-----------------------------------------------------------------------------------------------
