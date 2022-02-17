@@ -1,4 +1,3 @@
-from collections import UserList
 import os
 users=[]
 userid=100
